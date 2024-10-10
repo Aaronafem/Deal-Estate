@@ -1,0 +1,23 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Make the container full height */
+}
+
+nav {
+  margin-top: auto; /* Push the nav to the bottom */
+}
+
+nav ul {
+  list-style-type: none; /* Remove default list styling */
+  padding: 0; /* Remove padding */
+  text-align: center; /* Center the links */
+}
+
+nav ul li {
+  margin: 10px 0; /* Add space between items */
+}
+
+h1 {
+  text-align: center; /* Center the header */
+}
