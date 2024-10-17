@@ -57,7 +57,7 @@ Build and Run the Frontend
    docker build -t real-estate-frontend .
    docker run -p 80:80 real-estate-frontend
    ```
-Access the Application**:
+Access the Application:
 - Open your browser and navigate to `http://localhost` to access the frontend.
 
 Deployment
