@@ -1,4 +1,4 @@
-Real Estate Platform Project
+Deal Estate Platform Project
 
 Project Overview
 The goal of this project is to create an interactive real estate platform that allows users to list, view, and bid on properties. The platform is divided into a frontend and a backend, 
