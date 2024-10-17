@@ -40,7 +40,7 @@ Steps to Run:
 
 Clone the Repository
    ```sh
-   git clone https://github.com/yourusername/real-estate-platform.git](https://github.com/Aaronafem/Deal-Estate.git
+   git clone https://github.com/Aaronafem/Deal-Estate.git
    cd real-estate-platform
    ```
 
