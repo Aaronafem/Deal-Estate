@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Summerlyn",
+    "address": "15600 Summerlyn Dr, Granger, IN 46530",
+    "price": "$275,000",
+    "sqft": 3344,
+    "bedrooms": 3,
+    "bathrooms": 3
+  },
+  {
+    "id": 2,
+    "name": "Lantern",
+    "address": "50727 Old Lantern Trl, Granger, IN 46530",
+    "price": "$345,000",
+    "sqft": 2230,
+    "bedrooms": 4,
+    "bathrooms": 3
+  },
+  {
+    "id": 3,
+    "name": "Oakwood",
+    "price": "$338,000",
+    "address": "51414 Oakwood Ct, Granger, IN 46530",
+    "sqft": 3326,
+    "bedrooms": 3,
+    "bathrooms": 3
+  },
+  {
+    "id": 4,
+    "name": "Pencross",
+    "address": "17425 Pencross Dr, Granger, IN 46530",
+    "price": "$399,900",
+    "sqft": 3566,
+    "bedrooms": 4,
+    "bathrooms": 3
+  }
+]
